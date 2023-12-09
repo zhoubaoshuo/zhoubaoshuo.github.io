@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'yyds';
+  font-display: swap;
+  src: url('.../font/方正喵呜体.ttf') format("truetype");
+}
+body {
+  font-family: FZFW,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif
+  }
