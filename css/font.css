@@ -1,8 +1,5 @@
 @font-face {
-  font-family: 'yyds';
+  font-family: 'CascadiaCodePL';
   font-display: swap;
-  src: url('.../font/方正喵呜体.ttf') format("truetype");
+  src: url('/butterfly/font/QWQ.ttf') format("truetype");
 }
-body {
-  font-family: FZFW,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif
-  }
