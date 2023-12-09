@@ -1,5 +1,8 @@
 @font-face {
-  font-family: 'CascadiaCodePL';
-  font-display: swap;
-  src: url('/butterfly/font/QWQ.ttf') format("truetype");
+  font-family: 'qwq';
+  src: url('butterfly/source/css/QWQ.ttf') format("truetype");
+}
+
+body {
+  font-family: 'qwq';
 }
